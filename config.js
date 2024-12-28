@@ -62,7 +62,7 @@ global.api_smd = "https://api-smd.onrender.com/" //  || "https://api-smd-1.verce
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID  || ""  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID  || "EAAIrTy1wajoBO0gB2IGVXntCh2aaozzZCt13YJsCFGpp8ZB0ZB0R90FcOZAG1tWZCMWcz05ZBQwaQRnyI6M6pZAEhZCJLeAauhQyp5JjIIpq8WsUocfYuKW0JMFZAWYcqtBt4nvRHbJRP4jrydnlylM8J5ZCllqR5ZCnGDAz3aT9fMoRftChZB049opItwU3dYZByRUZACVToMtrSaIIbvSeMn13oKztRR0BrZBlY6W3E1O"  // PUT your SESSION_ID 
 
 
 module.exports = {
